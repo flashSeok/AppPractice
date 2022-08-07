@@ -5,6 +5,6 @@
 <details>
 <summary>로그인 화면 연습</summary>
 <div markdown="1">
-https://github.com/flashSeok/LoginPractice
+https://github.com/flashSeok/AppPractice/tree/master/LoginPracticeMVC
 </div>
 </details>
