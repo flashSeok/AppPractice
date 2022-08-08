@@ -1,5 +1,6 @@
-# AppPractice
-### 앱 만들기 연습
+# 앱만들기 연습
+
+## 목록
 * [로그인 화면 연습](https://github.com/flashSeok/AppPractice/tree/master/LoginPracticeMVC)</br>
 * [업다운 게임](https://github.com/flashSeok/AppPractice/tree/master/UpDownGameAppMVC)</br>
 * [타이머 앱](https://github.com/flashSeok/AppPractice/tree/master/TimerApp)</br>
