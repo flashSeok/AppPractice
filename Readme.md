@@ -7,4 +7,4 @@
 * [주사위 앱](https://github.com/flashSeok/AppPractice/tree/master/DiceGameMVC)</br>
 * [BMI 측정 앱](https://github.com/flashSeok/AppPractice/tree/master/BMIProjectMVC)</br>
 * [가위바위보 앱](https://github.com/flashSeok/AppPractice/tree/master/RPSGameMVC)</br>
-* [테이블뷰 연습(스토리보드)] (https://github.com/flashSeok/AppPractice/tree/master/TableViewPractice)</br>
+* [테이블뷰 연습(스토리보드)](https://github.com/flashSeok/AppPractice/tree/master/TableViewPractice)</br>
