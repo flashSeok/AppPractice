@@ -7,7 +7,7 @@
 ### 테이블뷰, 테이블뷰 셀 구현
   - 테이블뷰 안에 데이터 갯수만큼 셀 생성하기
   </br></br>
-<p align="center">  
+<p align="center">
   <img src = "" width="20%" height="20%">
   <img src ="" width="20%" height="20%">
   <img src= "" width="20%" height="20%">
